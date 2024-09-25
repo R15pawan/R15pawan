@@ -1,0 +1,15 @@
+num=15
+num2=25
+print("sum of number is :", num+num2)
+print("Difference of number is :", num-num2)
+print("product of number is :", num*num2)
+print("Division of number is :", num/num2)
+print("floor division of number is :", num//num2)
+print("floor division of number is :", num//num2)
+print("Module operator :", num%num2)
+print("Square :", num2**num2)
+print("Square Root:", num2**0.5)
+print("Equal?", num==num2)
+print("Less?", num<num2)
+print("Greater?", num>num2)
+print("not equal", num!=num2)
